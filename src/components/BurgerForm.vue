@@ -102,6 +102,7 @@ export default {
         transition: .5s;
     }
     .submit-btn:hover {
-        background-color: #222;
+        background-color: transparent;
+        color: #222;
     }
 </style>
